@@ -27,11 +27,11 @@ Some available commands
 
 Beyond `api.info` there are a number of additional available commands:
 
-    services
-    app(appname)
-    app_crash(appname)
-    app_instances(appname)
-    app_stats(app)
+    api.services
+    api.app(appname)
+    api.app_crash(appname)
+    api.app_instances(appname)
+    api.app_stats(appname)
 
 The above give more detailed information about applications and theie states in AppFog.
 
